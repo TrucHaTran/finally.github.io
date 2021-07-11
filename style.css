@@ -53,7 +53,7 @@ a.active, a:hover
 /* home section styling */
 .home{
     display: flex;
-    background: url("./images/banner.jpg") no-repeat center;
+    background: url("images/banner.jpg") no-repeat center;
     height: 650px;
     width:  1519px;
     color: #fff
